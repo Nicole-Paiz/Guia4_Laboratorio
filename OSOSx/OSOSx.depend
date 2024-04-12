@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712920260 source:c:\users\mineducyt\desktop\lab program ii\guia4-laboratorio\ososx\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712920260 c:\users\mineducyt\desktop\lab program ii\guia4-laboratorio\ososx\include\iapariencia.h
+
+1712920358 source:c:\users\mineducyt\desktop\lab program ii\guia4-laboratorio\ososx\main.cpp
+	<iostream>
+	"OSOSx.h"
+
+1712920271 c:\users\mineducyt\desktop\lab program ii\guia4-laboratorio\ososx\include\ososx.h
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
